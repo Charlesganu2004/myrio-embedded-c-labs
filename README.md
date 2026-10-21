@@ -1,5 +1,7 @@
 # myRIO Embedded C Labs: Keypad Input and LCD Output
 
+**Timeline:** January 2025 to February 2025 (Lab 0 on January 22, Lab 2 on February 12)
+
 Embedded C programs for the National Instruments myRIO that take numbers from a
 keypad and show them on a character LCD. Lab 0 builds a validated number-entry
 routine on top of the course's keypad and LCD functions. Lab 2 goes one level
