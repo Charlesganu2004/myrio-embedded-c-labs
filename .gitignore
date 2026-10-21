@@ -1,0 +1,7 @@
+# Build output from the NI Eclipse / C toolchain
+Debug/
+Release/
+*.o
+*.elf
+.metadata/
+.vscode/
